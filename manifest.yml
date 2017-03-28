@@ -1,0 +1,8 @@
+---
+applications:
+- name: nodejs-rest-contacts
+  memory: 128MB
+  instances: 2
+  host: nodejs-rest-contacts
+  env:
+    NODE_ENV: production
