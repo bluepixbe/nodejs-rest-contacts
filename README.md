@@ -2,6 +2,12 @@
 
 A simple [Express](http://expressjs.com/) rest application (without db)
 
+## Demo
+
+1. It's hosted on the Swisscom App Cloud 
+1. Go to [https://nodejs-rest-contacts.scapp.io/api/contacts](https://nodejs-rest-contacts.scapp.io/api/contacts)
+1. Have fun
+
 ## Run locally
 
 1. Install [Node.js and npm](https://nodejs.org/)
