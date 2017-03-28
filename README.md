@@ -1,6 +1,6 @@
-# CF Sample App Node.js
+# Simple Node.js rest contacts app 
 
-A sample [Express](http://expressjs.com/) application to deploy to Cloud Foundry which works out of the box.
+A simple [Express](http://expressjs.com/) rest application (without db)
 
 ## Run locally
 
